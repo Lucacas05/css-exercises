@@ -1,0 +1,20 @@
+.num {
+    background-color: pink;
+}
+
+div#num2 {
+    color: blue;
+    font-size: 50px;
+}
+
+.number.cool {
+    font-size: 30px;
+    background-color: pink;
+}
+
+div#num4 {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: greenyellow;
+}
